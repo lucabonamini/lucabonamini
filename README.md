@@ -1,9 +1,13 @@
 ### Hi there, I'm Luca 👋
 
-About Me
-🚀   Tech explorer and Robotics Software Engineer, sculpting the future with C++/ROS magic.
-🎓   Proud owner of a Master's in Robotics and Automation Engineering from the University of Pisa.
-👥   On the lookout for captivating collaborations and exciting opportunities in the dynamic realm of robotics.
+### About Me
+
+🚀   Tech explorer and Robotics Software Engineer, sculpting the future with C++/ROS magic
+
+🎓   Proud owner of a Master's in Robotics and Automation Engineering from the University of Pisa
+
+👥   On the lookout for captivating collaborations and exciting opportunities in the dynamic realm of robotics
+
 🌐   Navigating the tech cosmos with a passion for innovation and a knack for turning code into remarkable solutions. Let's create something extraordinary together! 🤖💻
 
 ### Languages
