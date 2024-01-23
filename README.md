@@ -41,7 +41,7 @@
 
 <a href="https://github.com/lucabonamini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucabonamini&show_icons=true&theme=chartreuse-dark" alt="Luca Bonamini's GitHub Stats" />
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucabonamini&theme=buefy&layout=compact" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucabonamini&theme=buefy&layout=compact&exclude_repo=lucabonamini.github.io" />
 </a>
 
 ### Connect with me
