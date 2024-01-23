@@ -15,10 +15,7 @@ About Me
   <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png" alt="Python" height="50"/>
 </a>
 <a href="https://www.ros.org/">
-  <img src="https://imgur.com/a/SgOuw3E" alt="ROS" width="50"/>
-</a>
-<a href="https://docs.ros.org/en/iron/index.html">
-  <img src="https://imgur.com/SchTBWF" alt="ROS2" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ROS-Dark.svg" alt="ROS" width="50"/>
 </a>
 
 ### Tools
@@ -46,5 +43,5 @@ About Me
 ### Connect with me
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/luca-bonamini/) 👨🏻‍💻
- - Shoot Me an [Email](lucabonamini28@gmail.com) 💌
- - [GitHub Profile Summary](https://profile-summary-for-github.com/user/lucabonamini)
+ - Shoot Me an [Email](lucabonamini28@gmail.com) 📫
+ - [GitHub Profile Summary](https://profile-summary-for-github.com/user/lucabonamini) 💻
